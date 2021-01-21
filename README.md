@@ -1,2 +1,2 @@
-# msfpc-
+# msfpc
 Msfpc for termux 
